@@ -1,0 +1,14 @@
+C:\Users\Yousef\Desktop\course\Tasks\SearchTasks\SearchTask01\bin\Debug\net8.0\SearchTask01.exe
+C:\Users\Yousef\Desktop\course\Tasks\SearchTasks\SearchTask01\bin\Debug\net8.0\SearchTask01.deps.json
+C:\Users\Yousef\Desktop\course\Tasks\SearchTasks\SearchTask01\bin\Debug\net8.0\SearchTask01.runtimeconfig.json
+C:\Users\Yousef\Desktop\course\Tasks\SearchTasks\SearchTask01\bin\Debug\net8.0\SearchTask01.dll
+C:\Users\Yousef\Desktop\course\Tasks\SearchTasks\SearchTask01\bin\Debug\net8.0\SearchTask01.pdb
+C:\Users\Yousef\Desktop\course\Tasks\SearchTasks\SearchTask01\obj\Debug\net8.0\SearchTask01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yousef\Desktop\course\Tasks\SearchTasks\SearchTask01\obj\Debug\net8.0\SearchTask01.AssemblyInfoInputs.cache
+C:\Users\Yousef\Desktop\course\Tasks\SearchTasks\SearchTask01\obj\Debug\net8.0\SearchTask01.AssemblyInfo.cs
+C:\Users\Yousef\Desktop\course\Tasks\SearchTasks\SearchTask01\obj\Debug\net8.0\SearchTask01.csproj.CoreCompileInputs.cache
+C:\Users\Yousef\Desktop\course\Tasks\SearchTasks\SearchTask01\obj\Debug\net8.0\SearchTask01.dll
+C:\Users\Yousef\Desktop\course\Tasks\SearchTasks\SearchTask01\obj\Debug\net8.0\refint\SearchTask01.dll
+C:\Users\Yousef\Desktop\course\Tasks\SearchTasks\SearchTask01\obj\Debug\net8.0\SearchTask01.pdb
+C:\Users\Yousef\Desktop\course\Tasks\SearchTasks\SearchTask01\obj\Debug\net8.0\SearchTask01.genruntimeconfig.cache
+C:\Users\Yousef\Desktop\course\Tasks\SearchTasks\SearchTask01\obj\Debug\net8.0\ref\SearchTask01.dll
