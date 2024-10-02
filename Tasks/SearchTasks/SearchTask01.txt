@@ -1,0 +1,81 @@
+            /* 
+                Q1) why the output of this Equation = $30.00?
+
+                Because the output is formatted as currency due to the :C in the string interpolation.
+
+                Q2) what is its benefit?
+
+                that it automatically formats the output.
+            */
+
+            //  Q3) try another example with a different specifier with a screenshot of the output.
+
+            // ---------------------- Currency Format ----------------------
+            /* 
+                Result: A currency value.
+
+                Supported by: All numeric types.
+
+                Precision specifier: Number of decimal digits.
+            */
+            Console.WriteLine($"Currency Number {250:C}"); // $250.00
+
+            // ---------------------- Binary Format ----------------------
+            /* 
+                Result: A binary string.
+
+                Supported by: Integral types only (.NET 8+).
+
+                Precision specifier: Number of digits in the result string. 
+            */
+            Console.WriteLine($"Binary Number {123:B}"); // 1111011
+
+            // ---------------------- Exponential Format ----------------------
+            /*
+                Result: Exponential notation.
+
+                Supported by: All numeric types.
+
+                Precision specifier: Number of decimal digits
+            */
+            Console.WriteLine($"Exponential Number {123:E}"); // 1.230000E+002
+
+            // ---------------------- Fixed-point Format ----------------------
+            /*
+                Result: Integral and decimal digits with optional negative sign.
+
+                Supported by: All numeric types.
+
+                Precision specifier: Number of decimal digits.
+            */
+            Console.WriteLine($"Fixed-point Number {123:F}"); // 123.00
+
+            // ---------------------- Percent Format ----------------------
+            /*
+                Result: Number multiplied by 100 and displayed with a percent symbol.
+
+                Supported by: All numeric types.
+
+                Precision specifier: Desired number of decimal places.
+            */
+            Console.WriteLine($"Percent Number {0.1:P}"); // 10.00%
+
+            // ---------------------- Hexadecimal Format ----------------------
+            /*
+                Result: A hexadecimal string.
+
+                Supported by: Integral types only.
+
+                Precision specifier: Number of digits in the result string.
+            */
+            Console.WriteLine($"Hexadecimal Number {123:X}"); // 7B
+
+            // ---------------------- Number Format ----------------------
+            /*
+                Result: Integral and decimal digits, group separators, and a decimal separator with optional negative sign.
+
+                Supported by: All numeric types.
+
+                Precision specifier: Desired number of decimal places.
+            */
+            Console.WriteLine($"Number {12345678:N}"); // 12,345,678.00
