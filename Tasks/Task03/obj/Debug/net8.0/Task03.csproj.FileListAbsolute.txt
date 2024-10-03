@@ -1,0 +1,15 @@
+C:\Users\Yousef\Desktop\course\Tasks\Task03\bin\Debug\net8.0\Task03.exe
+C:\Users\Yousef\Desktop\course\Tasks\Task03\bin\Debug\net8.0\Task03.deps.json
+C:\Users\Yousef\Desktop\course\Tasks\Task03\bin\Debug\net8.0\Task03.runtimeconfig.json
+C:\Users\Yousef\Desktop\course\Tasks\Task03\bin\Debug\net8.0\Task03.dll
+C:\Users\Yousef\Desktop\course\Tasks\Task03\bin\Debug\net8.0\Task03.pdb
+C:\Users\Yousef\Desktop\course\Tasks\Task03\obj\Debug\net8.0\Task03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yousef\Desktop\course\Tasks\Task03\obj\Debug\net8.0\Task03.AssemblyInfoInputs.cache
+C:\Users\Yousef\Desktop\course\Tasks\Task03\obj\Debug\net8.0\Task03.AssemblyInfo.cs
+C:\Users\Yousef\Desktop\course\Tasks\Task03\obj\Debug\net8.0\Task03.csproj.CoreCompileInputs.cache
+C:\Users\Yousef\Desktop\course\Tasks\Task03\obj\Debug\net8.0\Task03.sourcelink.json
+C:\Users\Yousef\Desktop\course\Tasks\Task03\obj\Debug\net8.0\Task03.dll
+C:\Users\Yousef\Desktop\course\Tasks\Task03\obj\Debug\net8.0\refint\Task03.dll
+C:\Users\Yousef\Desktop\course\Tasks\Task03\obj\Debug\net8.0\Task03.pdb
+C:\Users\Yousef\Desktop\course\Tasks\Task03\obj\Debug\net8.0\Task03.genruntimeconfig.cache
+C:\Users\Yousef\Desktop\course\Tasks\Task03\obj\Debug\net8.0\ref\Task03.dll
