@@ -1,0 +1,15 @@
+C:\Users\Yousef\Desktop\course\Tasks\Task04\obj\Debug\net8.0\Task04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yousef\Desktop\course\Tasks\Task04\obj\Debug\net8.0\Task04.AssemblyInfoInputs.cache
+C:\Users\Yousef\Desktop\course\Tasks\Task04\obj\Debug\net8.0\Task04.AssemblyInfo.cs
+C:\Users\Yousef\Desktop\course\Tasks\Task04\obj\Debug\net8.0\Task04.csproj.CoreCompileInputs.cache
+C:\Users\Yousef\Desktop\course\Tasks\Task04\obj\Debug\net8.0\Task04.sourcelink.json
+C:\Users\Yousef\Desktop\course\Tasks\Task04\bin\Debug\net8.0\Task04.exe
+C:\Users\Yousef\Desktop\course\Tasks\Task04\bin\Debug\net8.0\Task04.deps.json
+C:\Users\Yousef\Desktop\course\Tasks\Task04\bin\Debug\net8.0\Task04.runtimeconfig.json
+C:\Users\Yousef\Desktop\course\Tasks\Task04\bin\Debug\net8.0\Task04.dll
+C:\Users\Yousef\Desktop\course\Tasks\Task04\bin\Debug\net8.0\Task04.pdb
+C:\Users\Yousef\Desktop\course\Tasks\Task04\obj\Debug\net8.0\Task04.dll
+C:\Users\Yousef\Desktop\course\Tasks\Task04\obj\Debug\net8.0\refint\Task04.dll
+C:\Users\Yousef\Desktop\course\Tasks\Task04\obj\Debug\net8.0\Task04.pdb
+C:\Users\Yousef\Desktop\course\Tasks\Task04\obj\Debug\net8.0\Task04.genruntimeconfig.cache
+C:\Users\Yousef\Desktop\course\Tasks\Task04\obj\Debug\net8.0\ref\Task04.dll
