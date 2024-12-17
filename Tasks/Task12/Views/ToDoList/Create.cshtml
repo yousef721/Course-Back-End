@@ -1,0 +1,16 @@
+﻿<h2 class="mb-4">Task Submission Form</h2>
+<form action="/ToDoList/Create" method="post">
+    <div class="mb-3">
+        <label for="title" class="form-label">Title</label>
+        <input type="text" class="form-control" id="title" name="Title" placeholder="Enter title" required>
+    </div>
+    <div class="mb-3">
+        <label for="description" class="form-label">Description</label>
+        <textarea class="form-control" id="description" name="Description" rows="4" placeholder="Enter description" required></textarea>
+    </div>
+    <div class="mb-3">
+        <label for="deadline" class="form-label">Deadline Date</label>
+        <input type="datetime-local" class="form-control" id="deadline" name="Deadline" required>
+    </div>
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>

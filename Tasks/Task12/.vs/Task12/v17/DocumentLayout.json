@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Yousef\\Desktop\\Course-Back-End\\Tasks\\Task12\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6284F015-04DE-4C4B-B644-96E8B440111F}|Task12.csproj|c:\\users\\yousef\\desktop\\course-back-end\\tasks\\task12\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6284F015-04DE-4C4B-B644-96E8B440111F}|Task12.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6284F015-04DE-4C4B-B644-96E8B440111F}|Task12.csproj|c:\\users\\yousef\\desktop\\course-back-end\\tasks\\task12\\views\\home\\setname.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6284F015-04DE-4C4B-B644-96E8B440111F}|Task12.csproj|solutionrelative:views\\home\\setname.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6284F015-04DE-4C4B-B644-96E8B440111F}|Task12.csproj|c:\\users\\yousef\\desktop\\course-back-end\\tasks\\task12\\controllers\\todolistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6284F015-04DE-4C4B-B644-96E8B440111F}|Task12.csproj|solutionrelative:controllers\\todolistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6284F015-04DE-4C4B-B644-96E8B440111F}|Task12.csproj|c:\\users\\yousef\\desktop\\course-back-end\\tasks\\task12\\views\\todolist\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6284F015-04DE-4C4B-B644-96E8B440111F}|Task12.csproj|solutionrelative:views\\todolist\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6284F015-04DE-4C4B-B644-96E8B440111F}|Task12.csproj|c:\\users\\yousef\\desktop\\course-back-end\\tasks\\task12\\views\\todolist\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6284F015-04DE-4C4B-B644-96E8B440111F}|Task12.csproj|solutionrelative:views\\todolist\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6284F015-04DE-4C4B-B644-96E8B440111F}|Task12.csproj|c:\\users\\yousef\\desktop\\course-back-end\\tasks\\task12\\views\\todolist\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6284F015-04DE-4C4B-B644-96E8B440111F}|Task12.csproj|solutionrelative:views\\todolist\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SetName.cshtml",
+              "DocumentMoniker": "C:\\Users\\Yousef\\Desktop\\Course-Back-End\\Tasks\\Task12\\Views\\Home\\SetName.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\SetName.cshtml",
+              "ToolTip": "C:\\Users\\Yousef\\Desktop\\Course-Back-End\\Tasks\\Task12\\Views\\Home\\SetName.cshtml",
+              "RelativeToolTip": "Views\\Home\\SetName.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T13:23:29.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Yousef\\Desktop\\Course-Back-End\\Tasks\\Task12\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Yousef\\Desktop\\Course-Back-End\\Tasks\\Task12\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T13:22:46.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Yousef\\Desktop\\Course-Back-End\\Tasks\\Task12\\Views\\ToDoList\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\ToDoList\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Yousef\\Desktop\\Course-Back-End\\Tasks\\Task12\\Views\\ToDoList\\Index.cshtml",
+              "RelativeToolTip": "Views\\ToDoList\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB0AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-14T10:15:03.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Yousef\\Desktop\\Course-Back-End\\Tasks\\Task12\\Views\\ToDoList\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\ToDoList\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Yousef\\Desktop\\Course-Back-End\\Tasks\\Task12\\Views\\ToDoList\\Create.cshtml",
+              "RelativeToolTip": "Views\\ToDoList\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-15T11:10:55.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Yousef\\Desktop\\Course-Back-End\\Tasks\\Task12\\Views\\ToDoList\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\ToDoList\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Yousef\\Desktop\\Course-Back-End\\Tasks\\Task12\\Views\\ToDoList\\Edit.cshtml",
+              "RelativeToolTip": "Views\\ToDoList\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-15T12:14:33.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ToDoListController.cs",
+              "DocumentMoniker": "C:\\Users\\Yousef\\Desktop\\Course-Back-End\\Tasks\\Task12\\Controllers\\ToDoListController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ToDoListController.cs",
+              "ToolTip": "C:\\Users\\Yousef\\Desktop\\Course-Back-End\\Tasks\\Task12\\Controllers\\ToDoListController.cs",
+              "RelativeToolTip": "Controllers\\ToDoListController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T10:14:39.898Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
